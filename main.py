@@ -1,3 +1,4 @@
+#Made by Divinessh
 import csv
 from datetime import datetime
 
@@ -33,7 +34,7 @@ def main():
     while True:
         print("\n1. Daftar Kehadiran")
         print("2. Lihat Kehadiran")
-        print("3. Eksport Senarai Kehadiran dan Keluar")
+        print("3. Eksport Senarai Kehadiran sebagai fail csv dan Keluar")
 
         choice = input("Pilih antara pilihan di bawah dengan 1,2 atau 3: ")
 
